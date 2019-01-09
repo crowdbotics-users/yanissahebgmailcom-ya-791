@@ -1,0 +1,20 @@
+{
+  "name": "yanissahebgmailcom_ya_791",
+  "version": "0.1.0",
+  "description": "To-do application that appears when you open a new tab. Background would source a wallpaper from flicker. Weather info. Able to log tasks to do for the day. This web_extension application was built with Crowdbotics www.crowdbotics.com",
+  "license": "UNLICENSED",
+  "private": true,
+  "author": {
+    "name": "yanis.saheb",
+    "email": "yanis.saheb@gmail.com"
+  },
+  "contributors": [
+  ],
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "generate-json-webpack-plugin": "^0.2.2",
+    "web-ext": "^2.2.2",
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {}
+}
